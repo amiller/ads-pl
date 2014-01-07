@@ -1,2 +1,2 @@
 <meta http-equiv="refresh" content="2; url=http://example.com/">
-Redirecting to http://amiller.github.io/lambda-auth
+Redirecting to <a href="http://amiller.github.io/lambda-auth">http://amiller.github.io/lambda-auth</a>...
